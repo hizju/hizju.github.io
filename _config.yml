@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: hizju
+description: Where there is a will there is a way
 url: https://hizju.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: hizju
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: hizju
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/hizju
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: hizju
+  url: https://github.com/hizju/
+  email: satusna@gmail.com
